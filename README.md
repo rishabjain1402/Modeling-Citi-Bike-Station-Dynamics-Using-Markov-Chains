@@ -51,9 +51,3 @@ CitiBike is an integral part of NYC's transportation network. This project focus
 - Rishab Jain  
 - Jet Semrick  
 
-## License
-This project is for academic purposes and is not licensed for commercial use.  
-
----
-
-Feel free to adjust any details based on specific project deliverables or additional findings!
