@@ -1,7 +1,6 @@
 # NYC Citibike Station Modeling
 
 ### README Description:
-# NYC Citibike Station Modeling
 
 This repository contains the final project for ORIE 5530: Modeling Under Uncertainty at Cornell Tech. The project involves analyzing NYC CitiBike data from July 2024 to study bike availability patterns and estimate the steady-state distribution of bikes at selected stations using discrete Markov chains.
 
